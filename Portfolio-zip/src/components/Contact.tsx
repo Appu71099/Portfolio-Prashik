@@ -15,8 +15,8 @@ export default function Contact() {
 
           <div className="flex justify-center space-x-6 mb-12">
             <SocialLink href="mailto:your@email.com" icon={<Mail size={24} />} label="Email" />
-            <SocialLink href="https://github.com/Appu71099" icon={<Github size={24} />} label="GitHub" />
-            <SocialLink href="www.linkedin.com/in/prashik-ramteke-7234821b1" icon={<Linkedin size={24} />} label="LinkedIn" />
+            <SocialLink href="https://github.com" icon={<Github size={24} />} label="GitHub" />
+            <SocialLink href="https://linkedin.com" icon={<Linkedin size={24} />} label="LinkedIn" />
           </div>
 
           <a
