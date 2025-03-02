@@ -36,7 +36,7 @@ export default function Hero() {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 1 }}
         >
-          I'm Prashik
+          HI, I am Prashik
         </motion.h1>
 
         {/* Animated Description */}
