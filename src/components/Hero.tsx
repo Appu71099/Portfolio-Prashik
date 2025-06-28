@@ -36,20 +36,17 @@ export default function Hero() {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 1 }}
         >
-          HI, I am Prashik
+          Hi, I’m Prashik
         </motion.h1>
 
         {/* Animated Description */}
         <motion.p
-          className="text-xl md:text-2xl text-gray-300 mb-8 max-w-2xl mx-auto"
+          className="text-xl md:text-2xl text-gray-300 mb-8 max-w-5xl mx-auto"
           initial={{ opacity: 0, y: 10 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 1.2, delay: 0.3 }}
         >
-          Full Stack Developer with 2+ years of experience in Angular, React,
-          Spring Boot (Java), and DevOps tools. Specializing in scalable,
-          high-performance applications, currently building banking and payment
-          solutions.
+          A Full Stack Developer with over 3 years of experience in Angular, React, Spring Boot (Java), and DevOps tools. I specialize in building scalable, high-performance applications and am currently working on banking and payment solutions.
         </motion.p>
 
         {/* Animated Technologies */}

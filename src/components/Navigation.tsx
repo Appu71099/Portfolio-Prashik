@@ -19,7 +19,7 @@ export default function Navigation() {
     <nav className={`fixed w-full z-50 transition-all duration-300 ${
       isScrolled ? 'bg-gray-900/95 backdrop-blur-sm py-4' : 'bg-transparent py-6'
     }`}>
-      <div className="container mx-auto px-6">
+      <div className="container mx-auto ">
         <div className="flex items-center justify-between ">
           <div className="flex items-center justify-between w-20 ">
           <img src="" alt="" className="h-8 w-8 border-blue-500" />

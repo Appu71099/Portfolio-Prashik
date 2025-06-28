@@ -11,14 +11,16 @@ export default function Projects() {
       github: 'https://github.com/Appu71099/angularNewsApp',
       live: 'https://appu71099.github.io/angularNewsApp/'
     },
-    // {
-    //   title: 'Project Two',
-    //   description: 'E-commerce platform with real-time inventory management',
-    //   image: 'https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80',
-    //   technologies: ['Next.js', 'Prisma', 'PostgreSQL', 'Stripe'],
-    //   github: 'https://github.com',
-    //   live: 'https://example.com'
-    // },
+    {
+      title: 'Marketing Agency Website',
+      description: 'A modern marketing agency website built with React and Bootstrap, featuring a responsive design, service showcase, and contact form. It highlights the agency\'s expertise in digital marketing solutions.',
+      image: 'src/Assets/Screenshot 2025-06-28 103106.png',
+      technologies: ['React Js', 'Bootstrap', 'React Bootstrap'],
+      github: 'https://github.com/Appu71099/Marketing-Agency.git',
+      live: 'https://prashik-marketing-agency.netlify.app/'
+    },
+
+   
     // {
     //   title: 'Project Three',
     //   description: 'AI-powered data analytics dashboard',
