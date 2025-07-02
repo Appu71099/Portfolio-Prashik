@@ -14,7 +14,7 @@ export default function Projects() {
     {
       title: 'Marketing Agency Website',
       description: 'A modern marketing agency website built with React and Bootstrap, featuring a responsive design, service showcase, and contact form. It highlights the agency\'s expertise in digital marketing solutions.',
-      image: 'src/Assets/Screenshot 2025-06-28 103106.png',
+      image: '/Images/Screenshot 2025-06-28 103106.png',
       technologies: ['React Js', 'Bootstrap', 'React Bootstrap'],
       github: 'https://github.com/Appu71099/Marketing-Agency.git',
       live: 'https://prashik-marketing-agency.netlify.app/'
